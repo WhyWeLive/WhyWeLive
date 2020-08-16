@@ -1,21 +1,13 @@
-### Hi there 👋
+### Hi there, [I'm Nikita](https://github.com/WhyWeLive) 👋
 
 [![WhyWeLive's github stats](https://github-readme-stats.vercel.app/api?username=whywelive&count_private=true&show_icons=true&theme=gradient)](https://github.com/WhyWeLive)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyWeLive&layout=compact)](https://github.com/WhyWeLive)
 
-
-<!--
-**WhyWeLive/WhyWeLive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Nikita, a lazy self-taught developer from Russia.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a project for my college, maybe there'll be an announcement soon.
+- 💬 Ask me about [here](https://t.me/mynamewastaken)
+- 😄 Pronouns: Knee-key-ta
