@@ -2,6 +2,7 @@
 
 [![WhyWeLive's github stats](https://github-readme-stats.vercel.app/api?username=whywelive&count_private=true&show_icons=true&theme=radical)](https://github.com/WhyWeLive)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyWeLive&layout=compact)](https://github.com/WhyWeLive)
 
 
 <!--
