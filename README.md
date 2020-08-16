@@ -6,9 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project for my college, maybe there'll be an announcement soon.
 - 💬 Ask me about [here](https://t.me/mynamewastaken)
-- 😄 Pronouns: Knee-key-ta
-
-
 
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
