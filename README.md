@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a project for my college, maybe there'll be an announcement soon.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Launch a project that I'm working on.
+- 🥅 2020 Goals: Launch a project that I'm working on. **[I did it, btw.]**
 - 💬 Ask me about [here](https://t.me/mynamewastaken)
 - ⚡ Fun fact: I'm addicted to music, so I listen to it even when I'm talking to someone.
 
